@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
   final pages = [
     Container(
       width: double.infinity,
-      color: Colors.white,
+      color: Colors.black,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
